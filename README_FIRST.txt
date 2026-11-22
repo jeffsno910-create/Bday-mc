@@ -22,6 +22,12 @@ WHAT'S INCLUDED
 - NEW ADVENTURE: meet Pixel, a friendly blocky dog; activate the magic portal; discover the separate twelve-frame End Portal; travel to the End;
   awaken five star crystals; dissolve the Ender Dragon's shield with birthday starlight; and arrive
   in the Sweet Cherry Grove for a sky-shot fireworks show and a legendary birthday cake.
+- BONUS CHAPTER: Pixel's Side-Quest Arcade, unlocked from the Cherry Grove after the main adventure.
+  Play the harmless TNT confetti-vault rune puzzle, find three hidden Endermen, solve a 3×3 sliding
+  jigsaw featuring Pixel, and finish the five-question yes/no birthday quiz.
+- MOBILE FINISH: the main-page entrance no longer leaves a transform around fixed controls. On phones,
+  the music player becomes a compact expandable dock; the tracker, back-to-top button and temporary
+  toasts tuck away while the final birthday message is visible.
 - SECRET: type CREEPER, or tap the small “for priti” logo five times quickly, to find a tiny cameo.
 
 THE ADVENTURE FLOW
@@ -34,6 +40,8 @@ THE ADVENTURE FLOW
    complete the friendly, non-graphic dragon challenge.
 6. In the Sweet Cherry Grove, launch the sky-shot fireworks. Rockets visibly travel upward,
    burst into large layered displays, and finish with a multi-rocket finale. Reveal the cake too.
+7. Open Pixel's Side-Quest Arcade for four optional mini-games: the harmless TNT rune sequence,
+   Enderman hide-and-seek, a solvable 3×3 sliding picture puzzle, and a replayable yes/no quiz.
 
 COUNTDOWN
 ---------

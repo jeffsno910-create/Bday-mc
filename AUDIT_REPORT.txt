@@ -57,3 +57,15 @@ FOLLOW-UP — MINECRAFT-INSPIRED ADVENTURE
   trails, a long-falling sparkle layer and a three-rocket finale.
 - Added a final birthday cake unlock in the cherry-grove scene.
 - Kept the four relic collectibles and local-storage progress intact.
+
+
+FOLLOW-UP — MOBILE LAYOUT AND SIDE-QUEST ARCADE
+-----------------------------------------------
+- Fixed a root positioning issue: the main page previously retained a transform from its entrance animation, causing fixed-position widgets to behave as if attached to the page footer. The main-page entrance now uses opacity only.
+- Added a compact, expandable music dock on phones and automatically minimizes the player when the final message enters view. The completed relic tracker, back-to-top control and temporary toast are tucked away during the finale.
+- Added a sixth optional adventure chapter with four self-contained mini-games: a harmless TNT-themed confetti-vault rune sequence, randomized Enderman hide-and-seek, a solvable 3×3 sliding picture puzzle, and a five-question yes/no birthday quiz.
+- Created original local SVG artwork for the sliding jigsaw at assets/images/pixel-cherry-jigsaw.svg.
+- Browser-tested correct and incorrect rune paths, all Enderman locations, a complete jigsaw solve (using a shortest-path solver against the live board), quiz scoring/replay, and side-quest navigation.
+- Repeated mobile layout validation at 390 px; document width remained 390 px and the final message had no overlapping utility controls.
+- Node syntax validation passed and no JavaScript page errors occurred in the tested desktop or mobile interaction flows.
+- Additional narrow-phone check at 320 px: document width stayed 320 px, adventure card measured 296 px, each mini-game card measured 270 px, with no horizontal overflow or JavaScript page errors.

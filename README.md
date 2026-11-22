@@ -1,6 +1,6 @@
 # For Priti — A Birthday Written in the Stars ♡
 
-A self-contained, mobile-friendly birthday microsite made by Jeffrin for Priti. It includes the opening gift-and-whistle sequence, India-time birthday countdown, photo and video memories, birthday letters, wishes, cake celebration, creative studio, selfie booth, a final surprise, chapter-by-chapter ambient artwork, the one-minute Catch the Starlight game, and a four-relic Minecraft-inspired adventure.
+A self-contained, mobile-friendly birthday microsite made by Jeffrin for Priti. It includes the opening gift-and-whistle sequence, India-time birthday countdown, photo and video memories, birthday letters, wishes, cake celebration, creative studio, selfie booth, a final surprise, chapter-by-chapter ambient artwork, the one-minute Catch the Starlight game, and a four-relic Minecraft-inspired adventure with an optional four-game side-quest arcade.
 
 ## Run locally
 
@@ -32,6 +32,21 @@ Collect all four to unlock the realm. Then follow the five chapters:
 5. **Sweet Cherry Grove:** arrive beneath pixel cherry blossoms with Pixel. Launch the sky-shot fireworks: bright rockets visibly rise, burst into wide layered flower-like displays, and end with a multi-rocket finale. Reveal the legendary birthday cake for one last reward.
 
 The adventure is an original HTML/CSS/SVG/canvas scene; it does not require Minecraft, game files, external libraries, or a server. Relic progress is stored in the visitor's browser. Adventure-stage progress is kept for the current page session.
+
+### Pixel's Side-Quest Arcade
+
+After reaching the Sweet Cherry Grove, choose **explore Pixel's side-quest arcade** for four optional mini-games:
+
+- **Confetti Vault:** a harmless TNT-themed rune-order puzzle. The crates are magical party props; the challenge is to repeat the moon → paw → star pattern.
+- **Enderman Hide & Seek:** search six blossom glades to find three randomly hidden Endermen.
+- **Pixel's Jigsaw:** solve a 3×3 sliding puzzle using the original `assets/images/pixel-cherry-jigsaw.svg` artwork. The board is shuffled through legal moves, so every generated puzzle is solvable.
+- **Birthday Realm Verdict:** a five-question yes/no quiz with feedback, a score and replay.
+
+The arcade is optional and does not change the core birthday message or the relic collection.
+
+### Mobile finale layout
+
+The main-site entrance uses an opacity-only animation instead of leaving a transform on the entire page. This keeps fixed controls anchored to the viewport. On phones the music player starts as a small expandable dock; while the final message is visible, the completed relic tracker and back-to-top control tuck away so they do not cover the closing message.
 
 A separate tiny Creeper cameo can be found by typing `CREEPER` on a keyboard, or tapping the small **for priti** logo five times quickly. The cameo is a playful visual surprise.
 
