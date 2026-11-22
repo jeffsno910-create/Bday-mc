@@ -1,0 +1,5 @@
+CURRENT PROJECT FILES AND ORIGINAL BACKUP CHECKSUMS
+===================================================
+index.html: current 130275 bytes | SHA-256 a132073eda8f18d0b1de7856495f731ab487c72c661981415fc54345d10f6478 | original 98975 bytes | original SHA-256 89ca2d86e41ee77e88989dbf6c7b7632c470d964c1e03172f831f41bcc2108c8 | backup byte-identical: YES
+script.js: current 109206 bytes | SHA-256 08fcb407bb839031ef180a2a055a176e312833d4328d98eb1d5302b290a41cb4 | original 56843 bytes | original SHA-256 a72577e18d481a71d3a61ce4821eff4debe9be05d737e71c0d4b469f24b18bae | backup byte-identical: YES
+style.css: current 211767 bytes | SHA-256 a23b3f3f31406d5bc6c6ef226fc51ac27e1b57e906dee20b01b6a826720b425f | original 130085 bytes | original SHA-256 bb2fbe8a959542bcbe771541f0f1b148c21d40b02dba82938b1b377f1ee444c3 | backup byte-identical: YES
